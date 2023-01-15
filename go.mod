@@ -448,5 +448,3 @@ require (
 	sigs.k8s.io/structured-merge-diff/v4 v4.2.3 // indirect
 	sigs.k8s.io/yaml v1.2.0 // indirect
 )
-
-replace github.com/influxdata/telegraf => github.com/HuitianYu/telegraf v1.0.0
